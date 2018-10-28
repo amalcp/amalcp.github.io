@@ -42,7 +42,7 @@ career-profile:
     summary: |
       DevOps engineer, experienced in all faces of deployment, testing,
       maintenance, support. Design and develop continuous deployment pipeline,
-      integrating Docker, Git, Jenkins, and Ansible across geographically separated
+      integrating Git, Jenkins, terraform, docker and ansible etc. across geographically separated
       hosting zones in AWS and Google compute.
 
 education:
@@ -100,7 +100,7 @@ projects:
     assignments:
       - title: Buzztime
         link: "https://www.buzztime.com/"
-        tagline: "Infrastructure built with 100+ micro services managing using DockerSwarm, HA proxy"
+        tagline: "Infra. built with 100+ micro services managing using DockerSwarm,Ansible"
 
       - title: MeetNotes
         link: "https://meetnotes.co/"
@@ -108,7 +108,7 @@ projects:
 
       - title: ClearSlide
         link: "https://www.clearslide.com/"
-        tagline: "ECS cluster made the immutable infrastructure in AWS with highly available"
+        tagline: "ECS cluster made the high available immutable infrastructure in AWS"
 
 # publications:
 #     title: Publications
@@ -159,4 +159,4 @@ skills:
         level: 86%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by Amal
+    <i class="fas fa-heart"></i>
