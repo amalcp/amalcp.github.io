@@ -143,19 +143,19 @@ skills:
       - name: AWS, GCP
         level: 83%
 
-      - name: Terraform & CloudFormation
+      - name: Terraform, CloudFormation, Ansible
         level: 78%
-
-      - name: Ansible 
-        level: 75%
 
       - name: Shell & Python
         level: 65%
 
-      - name: ELK Stack, Logentries
+      - name: ELK Stack, Logentries, NewRelic
         level: 70%
 
       - name: Nagios, Promethues, PRTG 
+        level: 86%
+      
+      - name: Git, Jenkins/Bamboo, Spinnaker  
         level: 86%
 
 footer: >
