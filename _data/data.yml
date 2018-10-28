@@ -102,7 +102,7 @@ projects:
 
     assignments:
       - title: Buzztime
-        link: "#hook"
+        link: "https://www.buzztime.com/"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: MeetNotes
@@ -138,28 +138,28 @@ skills:
 
     toolset:
       - name: Linux & Windows
-        level: 98%
+        level: 85%
 
-      - name: Cloud:AWS, GCP
-        level: 95%
+      - name: DockerSwarm, Kubetnets, ECS
+        level: 70%
+
+      - name: AWS, GCP
+        level: 83%
 
       - name: Terraform & CloudFormation
-        level: 80%
+        level: 78%
 
       - name: Ansible 
         level: 75%
 
       - name: Shell & Python
-        level: 75%
+        level: 65%
 
       - name: ELK Stack, Logentries
         level: 70%
 
-      - name: DockerSwarm, Kubetnets, ECS
-        level: 70%
-
       - name: Nagios, Promethues, PRTG 
-        level: 80%
+        level: 86%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Amal
