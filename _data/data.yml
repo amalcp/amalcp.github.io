@@ -96,7 +96,8 @@ projects:
     assignments:
       - title: Buzztime
         link: "https://www.buzztime.com/"
-        tagline: "Infrastructure built with 100+ micro services managing using DockerSwarm & HA proxy"
+        tagline: "Infrastructure built with 100+ micro services managing using DockerSwarm, HA proxy" |
+          - test
 
       - title: MeetNotes
         link: "https://meetnotes.co/"
