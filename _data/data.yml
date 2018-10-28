@@ -49,11 +49,15 @@ education:
     - degree: BE in Computer Science
       university: Anna University
       time: 2009 - 2013
-      details:
+      details: CGPA - 7.8
     - degree: XII in Printing Technology
       university: Kerala VHSE
       time: 2007 - 2009
-      details: 
+      details: 72%
+    - degree: XII in Printing Technology
+      university: Kerala VHSE
+      time: 2007
+      details: 70%
 experiences:
     - role: DevOps Engineer
       time: 2017 - Present
