@@ -93,22 +93,18 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Buzztime
         link: "https://www.buzztime.com/"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Infrastructure built with 100+ micro services managing using DockerSwarm & HA proxy"
 
       - title: MeetNotes
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://meetnotes.co/"
+        tagline: "DevOps built a fully automated infrastructure in AWS with highly cost optimized"
 
       - title: ClearSlide
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "https://www.clearslide.com/"
+        tagline: "ECS cluster made the immutable infrastructure in AWS with highly available"
 
 # publications:
 #     title: Publications
