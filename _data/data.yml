@@ -10,7 +10,7 @@ sidebar:
 
     # Sidebar links
     email: itsamalcp@gmail.com
-    phone: +91 9526162456
+    phone: +971 505630494
     website: amalcp.github.io
     linkedin: amalcp
     github: amalcp
@@ -60,7 +60,18 @@ education:
       details: 70%
 experiences:
     - role: DevOps Engineer
-      time: 2017 - Present
+      time: 2018 - Present
+      company: Tajawal ​General ​Trading ​LLC
+      details: |
+          - Maintained consistent security to ensure that best practices were 
+            implemented at all times.
+          - Develop end to end infrastructure architecture for solutions
+          - Researched and identified new technologies and tools that would help to
+            grow the agile development environment.
+          - Designed strategic plan for high availability  practices.
+    
+    - role: DevOps Engineer
+      time: 2017 - 2018
       company: HashedIn Technologies Pvt Ltd, Banglore
       details: |
           - Maintained consistent security to ensure that best practices were 
@@ -81,18 +92,6 @@ experiences:
           - Collaborates with technical leadership and business stakeholders to develop 
             solutions to meet operational goals for high availability, performance, stability,
             security, and cost efficiency
-
-    - role: System Engineer
-      time: 2014 - 2015
-      company: PiServe Technologies Pvt Ltd, Cochin
-      details: |
-          - Debug and correct technical issues on Web servers, Mail servers,
-            Databases, Control panels.
-          - Provide technical assistance with installation, upgrade or any required
-            Maintenance on a hosting server.
-          - Audit and secure servers to make them stable, secure and high Performing.
-          - Ensure that the tickets raised per shift are closed as per SLA and if not
-            escalate as per the escalation Matrix defined
 
 projects:
     title: Projects
